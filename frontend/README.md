@@ -1,10 +1,10 @@
-##Frontend Project
+## Frontend Project
 This is the frontend project for the chat application, which communicates with the FastAPI backend to provide a user interface for chat prompts and Gemma API integration.
 
-#Deploying the Backend
+# Deploying the Backend
 Before running the frontend, ensure that the backend server is deployed and running. Follow the instructions in the backend project's README.md file to set up and run the FastAPI server.
 
-#Installation
+# Installation
 To set up the frontend project, first clone the repository:
 
 ```bash
