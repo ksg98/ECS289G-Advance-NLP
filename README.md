@@ -15,8 +15,11 @@ HEADERS = {"Authorization": "Bearer your_new_face_token_here"}
 ```
 Replace your_new_face_token_here with your new face token.
 
+## Clone the Dataset 
+Clone dataset from https://github.com/verazuo/jailbreak_llms. Please the CSVs in the bert directory or change the file URLs. Before Running Bert
+
 ## BERT Model
-The BERT model used in this project is defined in the `bert.ipynb` notebook. After training, the final model is saved in the `final_bert_model` directory. Make sure to load this model in the `main.py` file for the application to function correctly.
+The BERT model used in this project is defined in the `bert_model.ipynb` notebook. Please run Bert_model.ipynb. After training, the final model is saved in the `final_bert_model` directory. Make sure to load this model in the `main.py` file for the application to function correctly.
 
 # Installation
 
